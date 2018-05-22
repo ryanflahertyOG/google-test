@@ -1,0 +1,72 @@
+div.engine-name{
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+}
+
+div.search-form{
+  position: relative;
+  margin: 0 auto;
+  width: 400px;
+}
+
+input{
+  width: 90%;
+  padding: 10px;
+  margin: 15px;
+}
+
+input.google-search{
+  position:relative;
+  width:30%;
+  left:20%;
+  background-color:#f8f8f8;
+  margin:0px;
+}
+
+input.feeling-lucky{
+  position:relative;
+  width:30%;
+  left:20%;
+  background-color:#f8f8f8;
+  margin:0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  float:left;
+}
+
+div.footer{
+  bottom: 0;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color:#f8f8f8;
+}
+
+div.footer a{
+  text-decoration: none;
+  float: right;
+  color: black;
+  padding: 14px 16px;
+  
+}
+
+div.footer a.left{
+  float:left;
+}
