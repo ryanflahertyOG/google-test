@@ -1,5 +1,6 @@
-div.engine-name{
-  margin: 0 auto;
+div.search{
+  margin-top: 150px;
+  left: 50%
   width: 400px;
   text-align: center;
 }
@@ -8,6 +9,7 @@ div.search-form{
   position: relative;
   margin: 0 auto;
   width: 400px;
+  
 }
 
 input{
@@ -54,7 +56,7 @@ li a {
 div.footer{
   bottom: 0;
   width: 100%;
-  position: relative;
+  position: fixed;
   overflow: hidden;
   background-color:#f8f8f8;
 }
